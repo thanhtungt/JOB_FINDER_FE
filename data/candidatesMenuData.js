@@ -1,0 +1,81 @@
+module.exports = [
+  {
+    id: 1,
+    name: "Dashboard",
+    icon: "la-home",
+    routePath: "/candidates-dashboard/dashboard",
+    active: "active",
+  },
+  // {
+  //   id: 2,
+  //   name: "My Profile",
+  //   icon: "la-user-tie",
+  //   routePath: "/candidates-dashboard/my-profile",
+  //   active: "",
+  // },
+  {
+    id: 3,
+    name: "My Profile",
+    icon: "la-user-tie",
+    routePath: "/candidates-dashboard/my-profile",
+    active: "",
+  },
+  {
+    id: 4,
+    name: "Applied Jobs",
+    icon: "la-briefcase",
+    routePath: "/candidates-dashboard/applied-jobs",
+    active: "",
+  },
+  // {
+  //   id: 5,
+  //   name: "Notification",
+  //   icon: "la la-bell",
+  //   routePath: "/candidates-dashboard/job-alerts",
+  //   active: "",
+  // },
+  
+  {
+    id: 6,
+    name: "CV manager",
+    icon: "la la-file-invoice",
+    routePath: "/candidates-dashboard/cv-manager",
+    active: "",
+  },
+  {
+    id: 7,
+    name: "Packages",
+    icon: "la-box",
+    routePath: "/candidates-dashboard/packages",
+    active: "",
+  },
+  {
+    id: 8,
+    name: "Messages",
+    icon: "la-comment-o",
+    routePath: "/candidates-dashboard/messages",
+    active: "",
+  },
+  {
+    id: 9,
+    name: "Profile Video",
+    icon: "la-video-camera",
+    routePath: "/candidates-dashboard/profile-video",
+    active: "",
+  },
+  {
+    id: 10,
+    name: "Favorite Companies",
+    icon: "la-star",
+    routePath: "/candidates-dashboard/favorite-companies",
+    active: "",
+  },
+  {
+    id: 11,
+    name: "CV Matching History",
+    icon: "la-search",
+    routePath: "/candidates-dashboard/cv-matching-history",
+    active: "",
+  },
+
+];
